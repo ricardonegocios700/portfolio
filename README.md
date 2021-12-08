@@ -2,8 +2,8 @@
 
 Durante o curso na Kenzie Academy Brasil
 
-# 1° trimestre:
-# CAÇA-PALAVRA
+## 1° trimestre:
+### CAÇA-PALAVRA
 Um dos primeiros projetos com JavaScript: sorteia 3 palavras, as distribui aleatoriamente e completa os campos com letras aleatórias, foi um desafio interessante para um dos primeiros contatos com programação.
 
 Vídeo: https://drive.google.com/file/d/16O6kGfOgz0PAkvglO3390ChZazacct0R/view?usp=sharing
