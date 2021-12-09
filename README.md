@@ -2,6 +2,8 @@
 
 Durante o curso na Kenzie Academy Brasil, antecipando sua atenção em que estava aprendendo (ainda pode haver bugs) e o layout não era meu objetivo final e sim ter um código limpo e funcional.
 
+Linkedin: https://www.linkedin.com/in/ricardoliveira700/
+
 ## 1° TRIMESTRE:
 
 ### CAÇA-PALAVRA
