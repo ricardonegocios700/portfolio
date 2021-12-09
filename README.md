@@ -33,7 +33,7 @@ Vídeo: https://drive.google.com/file/d/1Hky0ZFhsFQfdmQcBL_bAVfxBdDfqlTw5/view?u
 
 Na web: https://kenzie-academy-brasil-developers.github.io/entrega-labirinto-sprint-5-ricardonegocios700/
 
-Repositório: https://alunos.kenzie.com.br/courses/43/assignments/5852?module_item_id=6992
+Repositório: https://github.com/Kenzie-Academy-Brasil-Developers/entrega-labirinto-sprint-5-ricardonegocios700
 
 
 ### Lig-4
@@ -95,4 +95,4 @@ Vídeo: https://drive.google.com/file/d/1fqwe0OaE2VtiaGxeQteceK6IGCvi7Q3p/view?u
 
 Na web: https://geek-legends.vercel.app/
 
-Repositório: https://github.com/ricardonegocios700/server_geeklegends
+Repositório: https://github.com/ricardonegocios700/geek-legends
