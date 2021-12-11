@@ -98,3 +98,8 @@ Vídeo: https://drive.google.com/file/d/1fqwe0OaE2VtiaGxeQteceK6IGCvi7Q3p/view?u
 Na web: https://geek-legends.vercel.app/
 
 Repositório: https://github.com/ricardonegocios700/geek-legends
+
+## PROJETO RUBY ON RAILS
+No meio do ano de 2019 iniciei um projeto Ruby On Rails, para apresentar a uma empresa de Celulose, mas a falta de conhecimento com Front End me deixou inseguro para continuar o projeto
+
+Repositório: https://github.com/ricardonegocios700/rdliner
