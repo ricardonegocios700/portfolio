@@ -103,7 +103,7 @@ Repositório: https://github.com/ricardonegocios700/geek-legends
 https://github.com/ricardonegocios700/capstone_q3
 
 ### STREAMING
-Introdução ao Python com Framework.
+Introdução ao Python com Framework Flask.
 
 Repositório: https://github.com/ricardonegocios700/capstone_q3
 
