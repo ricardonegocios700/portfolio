@@ -99,7 +99,11 @@ Na web: https://geek-legends.vercel.app/
 
 Repositório: https://github.com/ricardonegocios700/geek-legends
 
-## PROJETO RUBY ON RAILS
-No meio do ano de 2019 iniciei um projeto Ruby On Rails, para apresentar a uma empresa de Celulose, mas a falta de conhecimento com Front End me deixou inseguro para continuar o projeto
+## 3o Trimestre
+https://github.com/ricardonegocios700/capstone_q3
 
-Repositório: https://github.com/ricardonegocios700/rdliner
+### STREAMING
+Introdução ao Python com Framework.
+
+Repositório: https://github.com/ricardonegocios700/capstone_q3
+
