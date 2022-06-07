@@ -1,109 +1,193 @@
 # Portfólio
 
-Durante o curso na Kenzie Academy Brasil, antecipando sua atenção em que estava aprendendo (ainda pode haver bugs) e o layout não era meu objetivo final e sim ter um código limpo e funcional.
+**Linkedin**: https://www.linkedin.com/in/ricardoliveira700/
 
-Linkedin: https://www.linkedin.com/in/ricardoliveira700/
+Programar é, antes de tudo, estudar a necessidade do cliente, extraindo dele o que de realmente precisa para transformar isso em linguagem de programação, usando boas práticas, metodologias de trabalho como o SCRUM e, por fim, o código.
 
-## 1° TRIMESTRE:
+Como um estudante sem experiência em programação, quero apresentar neste portfólio alguns exercícios desenvolvidos durante o curso intensivo de 12 meses, principalmente os capstones que são trabalhos em grupo de encerramento do módulo estudado:
 
-### CAÇA-PALAVRA
-Um dos primeiros projetos com JavaScript: sorteia 3 palavras, as distribui aleatoriamente e completa os campos com letras desordenadas, foi um desafio interessante para um dos primeiros contatos com programação.
+## **CAPSTONE DJANGO**
 
-Vídeo: https://drive.google.com/file/d/16O6kGfOgz0PAkvglO3390ChZazacct0R/view?usp=sharing
+### **Projeto Shark Tank**
 
-Na web:
-https://kenzie-academy-brasil-developers.github.io/entrega-construa-um-jogo-de-azar-sprint-3-ricardonegocios700/
+**Repositório**: https://github.com/ricardonegocios700/capstone-django
 
-Repositório:
-https://github.com/Kenzie-Academy-Brasil-Developers/entrega-construa-um-jogo-de-azar-sprint-3-ricardonegocios700/settings
+**Planejamento** das features usando Kanban do notion.so;
 
+**Documentação README.md**: editada no notion.so;
 
-### TORRE DE HANOI
-A idéia do exercício era usar o JavaScript para movimentar o conteúdo da página, desenvolvido em dupla, foram muito conflitos de iniciantes no Git.
+**Linguagem** de desenvolvimento: Python 3.09;
 
-Vídeo: https://drive.google.com/file/d/1cxYsfoXluY16XxCbhy0p2aJiB6KVoSr8/view?usp=sharing
+**Framework**: Django 4.0;
 
-Na web: https://kenzie-academy-brasil-developers.github.io/entrega-torre-de-hanoi-sprint-5-TvsTrad/
+**Repositório**: Github;
 
-Repositório: https://github.com/ricardonegocios700/entrega-torre-de-hanoi-sprint-5-TvsTrad
+**Hospedagem**: Heroku;
 
+**Bando de dados**: PostgreSQL;
 
-### LABIRINTO
+**Testes dos endpoints**: Insomnia;
+
+**Equipe**: 4 estudantes;
+
+**Desafios**: explorar ambos os padrões de serializers (.Serializer e .Model) e generic views, reescrevendo função(ões) existentes, autenticação e autorização por hash, uso de pagination e expeptions, deploy no Heroku e uso de variáveis de ambiente.
+
+A api permite a criação de usuários:
+
+- empreendedores que podem criar projetos para captação de recurso;
+- investidores que podem investir em idéias ativas;
+- superusers com poderes especiais de gerenciamento.
+
+Além de regras de negócio como não permitir que haja mais de um projeto ativo para um único usuário, entre outras e fomos levados ao envolvimento como um time dentro dos padrões Ágile, usando papéis e ritos SCRUM, firmando os conceitos estudados durante as 2 semanas de curso.
+
+## **CAPSTONE NODEJS**
+
+### ****Api - TRead****
+
+**Repositório**: [https://github.com/ricardonegocios700/capstone-NodeJS](https://github.com/ricardonegocios700/capstone-NodeJS)
+
+**Planejamento** das features usando Kanban do notion.so;
+
+**Documentação README.md**: editada no notion.so;
+
+**Linguagem** de desenvolvimento: TypeScript 4.6.3;
+
+**Framework**: Notion 10.19.0
+
+**Repositório**: Github;
+
+**Hospedagem**: Heroku;
+
+**Bando de dados**: PostgreSQL;
+
+**Testes dos endpoints**: Insomnia;
+
+**Equipe**: 5 estudantes;
+
+**Desafios**: desenvolver aplicação em NodeJS explorando as rotas, middlewares, validações de dados com yup, autenticação e autorização com jwt, deploy no Heroku, uso de variáveis de ambiente, TypeOrm, padrão repository e tratamento de erros.
+
+A aplicação permite incluir livros à rede social, possibilita outras pessoas seguirem o livro, comentarem, pontuarem, darem like/deslike, buscarem por parte dos nomes e abrirem ocorrência aos administradores, apontando erros em determinado livro, entre outras.
+
+Como estudantes fomos levados ao envolvimento como um time dentro dos padrões Ágile, usando papéis e ritos SCRUM, firmando os conceitos estudados durante as 3 semanas de curso.
+
+## **CAPSTONE FLASK**
+
+### ****Api - Stree****
+
+**Repositório**: https://github.com/ricardonegocios700/capstone_flask
+
+**Planejamento** das features usando Kanban do notion.so;
+
+**Documentação README.md**: editada no notion.so;
+
+**Linguagem** de desenvolvimento: Python 3.09;
+
+**Framework**: Flask 2.0.3;
+
+**Repositório**: Github;
+
+**Hospedagem**: Heroku;
+
+**Bando de dados**: PostgreSQL;
+
+**Testes dos endpoints**: Insomnia;
+
+**Equipe**: 6 estudantes;
+
+**Desafios**: primeiro contato no curso com back-end, exploramos os conceitos, melhores práticas, e uso dos bancos de dados e aprendemos Python, no capstone  exploramos exceções, decorators, MVC, ORM ASLAlchemy, serialização com @dataclasses, blueprint, autenticação com jwt, uso de variáveis de ambiente e deploy no Heroku.
+
+A aplicação faz upload e download de filmes, muito semelhante ao Netflix, com opção de filmes favoritos, likes e deslikes, lista de desejos, quantidade de 4 profiles por usuários, com regras de negócio que explorassem a capacidade da equipe, como uma validação que impediam a exibição de filmes impróprios para determinada idade, entre outras.
+
+Como estudantes fomos levados ao envolvimento como um time dentro dos padrões Ágile, usando papéis e ritos SCRUM, firmando os conceitos estudados durante as 3 semanas de curso.
+
+## **CAPSTONE REACT**
+
+### Geek Legends
+
+**Repositório**: https://github.com/ricardonegocios700/geek-legends
+
+**Vídeo**: https://drive.google.com/file/d/1fqwe0OaE2VtiaGxeQteceK6IGCvi7Q3p/view?usp=sharing
+
+**Link do site**: [https://geek-legends.vercel.app/](https://geek-legends.vercel.app/)
+
+**Planejamento** das features, do layout e fluxograma usando Kanban do [whimsical.com](http://whimsical.com) e figma para Mobile;
+
+**Linguagem** de desenvolvimento: TypeScript 4.1.2;
+
+**Framework**: RectJS 17.0.2;
+
+**Repositório**: Github;
+
+**Hospedagem**: Vercel;
+
+**Endpoints**: simulados pelo JSON-Server, no Heroku;
+
+**Equipe**: 4 estudantes;
+
+**Desafios**: Aplicar desestruturação de dados, callbacks, ciclos de vida, componentes de classe, react router DOM, validações de dados com yup, axios, jwt com guarda de tokens no localStorage, Context Api, deploy no Vercel.
+
+A aplicação permite pesquisar lojas, filmes e músicas do universo Geek, pontuar e favoritar.
+
+Como estudantes fomos levados ao envolvimento como um time dentro dos padrões Ágile, usando papéis e ritos SCRUM, firmando os conceitos estudados durante as 8 semanas de curso.
+
+## **CAPSTONE VANILLA JS**
+
+### LIG4
+
+**Repositório**: [https://github.com/ricardonegocios700/entrega-lig-4-sprint-5](https://github.com/ricardonegocios700/entrega-lig-4-sprint-5)
+
+**Vídeo**: https://drive.google.com/file/d/1MWbiifP6GX_TUwFGfFYEQQOK9jSqoNw1/view?usp=sharing
+
+**Link do site**: [https://ricardonegocios700.github.io/entrega-lig-4-sprint-5/](https://ricardonegocios700.github.io/entrega-lig-4-sprint-5/)
+
+**Linguagem** de desenvolvimento: JavaScript;
+
+**Repositório**: Github;
+
+**Equipe**: 4 estudantes;
+
+**Desafios**: Desenvolver aplicação simulando o jogo infantil LIG4, sem auxilio de frameworks, uma atividade simples mas que demandou muitas questões sobre desenvolvimento web, como movimento, DOM e lógica para validar a vitória.
+
+Como estudantes fomos levados ao envolvimento como um time dentro dos padrões Ágile, usando papéis e ritos SCRUM.
+
+# ATIVIDADES INDIVIDUAIS:
+
+## **KENZIE SHOP - RectJS**
+
+O objetivo era exibir uma página de e-commerce, permitir enviar e remover do carrinho usando o mesmo componente de exibição e aplicar o Redux.
+
+**Vídeo**: https://drive.google.com/file/d/1amEpqEbhnW2zBfLtxDE_u0nNj0_Wu3Aq/view?usp=sharing
+
+**Link do site**: https://3a12-psi.vercel.app/
+
+**Repositório**: https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s3-kenzieshop-ricardonegocios700
+
+## **TORRE DE HANOI**
+
+A idéia do exercício era usar o JavaScript para movimentar o conteúdo da página, desenvolvido em dupla, foram muito conflitos de iniciantes no Git, avançamos o nível da atividade com opção de usar até 9 discos.
+
+**Vídeo**: https://drive.google.com/file/d/1cxYsfoXluY16XxCbhy0p2aJiB6KVoSr8/view?usp=sharing
+
+**Link do site**: [https://ricardonegocios700.github.io/torredehanoi/](https://ricardonegocios700.github.io/torredehanoi/)
+
+**Repositório**: [https://github.com/ricardonegocios700/torredehanoi](https://github.com/ricardonegocios700/torredehanoi)
+
+## **LABIRINTO**
+
 O objetivo era movimentar o personagem com JavaScript usando o teclado, além de limitar a área em que ele pode se movimentar, no site tem sons quando ele bate na parede e a música de vitória ficou alta (na linha de chegada): mas valeu o aprendizado.
 
-Vídeo: https://drive.google.com/file/d/1Hky0ZFhsFQfdmQcBL_bAVfxBdDfqlTw5/view?usp=sharing
+**Vídeo**: https://drive.google.com/file/d/1Hky0ZFhsFQfdmQcBL_bAVfxBdDfqlTw5/view?usp=sharing
 
-Na web: https://kenzie-academy-brasil-developers.github.io/entrega-labirinto-sprint-5-ricardonegocios700/
+**Link do site**: https://kenzie-academy-brasil-developers.github.io/entrega-labirinto-sprint-5-ricardonegocios700/
 
-Repositório: https://github.com/Kenzie-Academy-Brasil-Developers/entrega-labirinto-sprint-5-ricardonegocios700
+**Repositório**: https://github.com/Kenzie-Academy-Brasil-Developers/entrega-labirinto-sprint-5-ricardonegocios700
 
+## **CAÇA-PALAVRA**
 
-### Lig-4
-Trabalho em grupo SCRUM de 4 pessoas , desenvolvemos um jogo para colocar 4 fichas da mesma cor em linha vertical, horizontal ou diagonal, o desafio foi maior sem falar dos conflitos do Git, apesar não permitir múltiplo acesso gostei do resultado e mais ainda do aprendizado.
+Um dos primeiros projetos com JavaScript: sorteia 3 palavras, as distribui aleatoriamente e completa os campos com letras desordenadas, foi um desafio interessante para um dos primeiros contatos com programação.
 
-Vídeo: https://drive.google.com/file/d/1MWbiifP6GX_TUwFGfFYEQQOK9jSqoNw1/view?usp=sharing
+**Vídeo**: https://drive.google.com/file/d/16O6kGfOgz0PAkvglO3390ChZazacct0R/view?usp=sharing
 
-Na web: https://kenzie-academy-brasil-developers.github.io/entrega-lig-4-sprint-5-GabrielGuti/
+**Link do site**: https://kenzie-academy-brasil-developers.github.io/entrega-construa-um-jogo-de-azar-sprint-3-ricardonegocios700/
 
-Repositório: https://github.com/ricardonegocios700/entrega-lig-4-sprint-5-GabrielGuti
-
-
-## 2° TRIMESTRE:
-
-### HAMBURGUERIA
-Introdução ao React-JS.
-
-Vídeo: https://drive.google.com/file/d/12WPHTbnk2RimSYj0RC-vsQxM1hn5ewYF/view?usp=sharing
-
-Na web: https://1-b07-entrega.vercel.app/
-
-Repositório: https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-ricardonegocios700
-
-
-### SORTEIO TRIBRUXO
-Avançando em React-JS, a atividade consistia em acessar um servidor externo (API) retornando 3 participantes do torneio, cada um deles deveriam pertencer a uma casa diferente além de utilizar um mesmo componente de exibição e ter cores diferentes para cada casa.
-
-Vídeo:  https://drive.google.com/file/d/1R5nvzIBlQSvDAo1IeO9HX90S4BSb0PA9/view?usp=sharing
-
-Na web: https://kenzie-1b16.vercel.app/
-
-Repositório: https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-preparativos-para-o-torneio-tribruxo-ricardonegocios700
-
-### KENZIE SHOP
-
-O objetivo era exibir uma página de e-commerce, permitir enviar e remover do carrinho usando o mesmo componente de exibição e aplicar o Redux no React-JS.
-
-Vídeo: https://drive.google.com/file/d/1amEpqEbhnW2zBfLtxDE_u0nNj0_Wu3Aq/view?usp=sharing
-
-Na web: https://3a12-psi.vercel.app/
-
-Repositório: https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s3-kenzieshop-ricardonegocios700
-
-### GESTÃO DE HÁBITOS
-
-Trabalho em equipe, houve menos conflitos no Git, afinamos a metodologia SCRUM e trabalhamos com uma API comum a todas equipes, foi muito bacana usar o Whimsical para planejar a acompanhar o desenvolvimento e o Figma para pensar nas páginas.
-
-Vídeo: https://drive.google.com/file/d/1QxLXOur9oJWWs-Lq51BT138ii2Y_bfIH/view?usp=sharing
-
-Na web: https://react-habits-super-devs.vercel.app/
-
-Repositório: https://github.com/ricardonegocios700/react-habits-super-devs
-
-### CAPSTONE
-
-Finalmente o nosso encerramento de curso Front End, SCRUM e Git funcionando bem, React-JS com API (JSON Server) criada pela equipe, usamos o Context-Api e (para não facilitar o trabalho) o TypeScript recebem aprendido, em 2 semanas conseguimos um resultado muito bom.
-
-Vídeo: https://drive.google.com/file/d/1fqwe0OaE2VtiaGxeQteceK6IGCvi7Q3p/view?usp=sharing
-
-Na web: https://geek-legends.vercel.app/
-
-Repositório: https://github.com/ricardonegocios700/geek-legends
-
-## 3o Trimestre
-https://github.com/ricardonegocios700/capstone_q3
-
-### STREAMING
-Introdução ao Python com Framework Flask.
-
-Repositório: https://github.com/ricardonegocios700/capstone_q3
-
+**Repositório**: https://github.com/Kenzie-Academy-Brasil-Developers/entrega-construa-um-jogo-de-azar-sprint-3-ricardonegocios700
