@@ -140,7 +140,7 @@ Como estudantes fomos levados ao envolvimento como um time dentro dos padrões �
 
 **Link do site**: [https://ricardonegocios700.github.io/entrega-lig-4-sprint-5/](https://ricardonegocios700.github.io/entrega-lig-4-sprint-5/)
 
-**Linguagem** de desenvolvimento: JavaScript;
+**Linguagem** de desenvolvimento: JavaScript ES;
 
 **Repositório**: Github;
 
