@@ -30,7 +30,7 @@ Como um estudante sem experiência em programação, quero apresentar neste port
 
 **Equipe**: 4 estudantes;
 
-**Desafios**: explorar ambos os padrões de serializers (.Serializer e .Model) e generic views, reescrevendo função(ões) existentes, autenticação e autorização por hash, uso de pagination e expeptions, deploy no Heroku e uso de variáveis de ambiente.
+**Desafios**: explorar ambos os padrões de serializers (.Serializer e .Model) e generic views, reescrevendo função(ões) existentes, autenticação e autorização por hash, uso de pagination e exceptions, deploy no Heroku e uso de variáveis de ambiente.
 
 A api permite a criação de usuários:
 
