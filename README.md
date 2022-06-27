@@ -30,6 +30,8 @@ Como um estudante sem experiência em programação, quero apresentar neste port
 
 **Equipe**: 4 estudantes;
 
+**Objetivo da api**: a api permite ao empreendedor expor seus projetos e solicitar investimentos enquanto os investidores podem escolher quanto e onde investir.
+
 **Desafios**: explorar ambos os padrões de serializers (.Serializer e .Model) e generic views, reescrevendo função(ões) existentes, autenticação e autorização por hash, uso de pagination e exceptions, deploy no Heroku e uso de variáveis de ambiente.
 
 A api permite a criação de usuários:
@@ -64,9 +66,9 @@ Além de regras de negócio como não permitir que haja mais de um projeto ativo
 
 **Equipe**: 5 estudantes;
 
-**Desafios**: desenvolver aplicação em NodeJS explorando as rotas, middlewares, validações de dados com yup, autenticação e autorização com jwt, deploy no Heroku, uso de variáveis de ambiente, TypeOrm, padrão repository e tratamento de erros.
+**Objetivo da api**: a api permite ao usuário incluir ou seguir livros e deixar seus comentários, pontuarem, darem like/deslike e abrirem ocorrências aos administradores apontando erros em determinado livro.
 
-A aplicação permite incluir livros à rede social, possibilita outras pessoas seguirem o livro, comentarem, pontuarem, darem like/deslike, buscarem por parte dos nomes e abrirem ocorrência aos administradores, apontando erros em determinado livro, entre outras.
+**Desafios**: desenvolver aplicação em NodeJS explorando as rotas, middlewares, validações de dados com yup, autenticação e autorização com jwt, deploy no Heroku, uso de variáveis de ambiente, TypeOrm, padrão repository e tratamento de erros.
 
 Como estudantes fomos levados ao envolvimento como um time dentro dos padrões Ágile, usando papéis e ritos SCRUM, firmando os conceitos estudados durante as 3 semanas de curso.
 
@@ -94,9 +96,11 @@ Como estudantes fomos levados ao envolvimento como um time dentro dos padrões �
 
 **Equipe**: 6 estudantes;
 
+**Objetivo da api**: a api permite upload e download de filmes, com opção de favoritar, like e deslike, lista de desejos, associar 4 profiles por usuário.
+
 **Desafios**: primeiro contato no curso com back-end, exploramos os conceitos, melhores práticas, e uso dos bancos de dados e aprendemos Python, no capstone  exploramos exceções, decorators, MVC, ORM ASLAlchemy, serialização com @dataclasses, blueprint, autenticação com jwt, uso de variáveis de ambiente e deploy no Heroku.
 
-A aplicação faz upload e download de filmes, muito semelhante ao Netflix, com opção de filmes favoritos, likes e deslikes, lista de desejos, quantidade de 4 profiles por usuários, com regras de negócio que explorassem a capacidade da equipe, como uma validação que impediam a exibição de filmes impróprios para determinada idade, entre outras.
+Criamos regras de negócio para explorar a capacidade da equipe, como uma validação que impediam a exibição de filmes impróprios para determinada idade, entre outras.
 
 Como estudantes fomos levados ao envolvimento como um time dentro dos padrões Ágile, usando papéis e ritos SCRUM, firmando os conceitos estudados durante as 3 semanas de curso.
 
@@ -124,9 +128,9 @@ Como estudantes fomos levados ao envolvimento como um time dentro dos padrões �
 
 **Equipe**: 4 estudantes;
 
-**Desafios**: Aplicar desestruturação de dados, callbacks, ciclos de vida, componentes de classe, react router DOM, validações de dados com yup, axios, jwt com guarda de tokens no localStorage, Context Api, deploy no Vercel.
+**Objetivo da api**: A aplicação permite pesquisar lojas, filmes e músicas do universo Geek, pontuar e favoritar.
 
-A aplicação permite pesquisar lojas, filmes e músicas do universo Geek, pontuar e favoritar.
+**Desafios**: Aplicar desestruturação de dados, callbacks, ciclos de vida, componentes de classe, react router DOM, validações de dados com yup, axios, jwt com guarda de tokens no localStorage, Context Api, deploy no Vercel.
 
 Como estudantes fomos levados ao envolvimento como um time dentro dos padrões Ágile, usando papéis e ritos SCRUM, firmando os conceitos estudados durante as 8 semanas de curso.
 
@@ -146,11 +150,16 @@ Como estudantes fomos levados ao envolvimento como um time dentro dos padrões �
 
 **Equipe**: 4 estudantes;
 
-**Desafios**: Desenvolver aplicação simulando o jogo infantil LIG4, sem auxilio de frameworks, uma atividade simples mas que demandou muitas questões sobre desenvolvimento web, como movimento, DOM e lógica para validar a vitória.
+**Objetivo do site**: simular o jogo infantil LIG4, sem auxilio de frameworks.
+
+**Desafios**: Desenvolver aplicação sem auxilio de frameworks, uma atividade que demandou muitas questões sobre desenvolvimento web, como movimento, DOM e lógica para validar a vitória.
 
 Como estudantes fomos levados ao envolvimento como um time dentro dos padrões Ágile, usando papéis e ritos SCRUM.
 
+
+
 # ATIVIDADES INDIVIDUAIS:
+
 
 ## **KENZIE SHOP - RectJS**
 
@@ -164,6 +173,7 @@ O objetivo era exibir uma página de e-commerce, permitir enviar e remover do ca
 
 ## **TORRE DE HANOI**
 
+
 A idéia do exercício era usar o JavaScript para movimentar o conteúdo da página, desenvolvido em dupla, foram muito conflitos de iniciantes no Git, avançamos o nível da atividade com opção de usar até 9 discos.
 
 **Vídeo**: https://drive.google.com/file/d/1cxYsfoXluY16XxCbhy0p2aJiB6KVoSr8/view?usp=sharing
@@ -171,6 +181,7 @@ A idéia do exercício era usar o JavaScript para movimentar o conteúdo da pág
 **Link do site**: [https://ricardonegocios700.github.io/torredehanoi/](https://ricardonegocios700.github.io/torredehanoi/)
 
 **Repositório**: [https://github.com/ricardonegocios700/torredehanoi](https://github.com/ricardonegocios700/torredehanoi)
+
 
 ## **LABIRINTO**
 
@@ -181,6 +192,7 @@ O objetivo era movimentar o personagem com JavaScript usando o teclado, além de
 **Link do site**: https://kenzie-academy-brasil-developers.github.io/entrega-labirinto-sprint-5-ricardonegocios700/
 
 **Repositório**: https://github.com/Kenzie-Academy-Brasil-Developers/entrega-labirinto-sprint-5-ricardonegocios700
+
 
 ## **CAÇA-PALAVRA**
 
